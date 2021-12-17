@@ -1,1 +1,1 @@
-# PennySwap Solidity Contracts
+# Proof of Concept Solidity Contracts
